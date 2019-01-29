@@ -1,3 +1,3 @@
-# code-samples
+# OHP
+To browse various OHP prototypes, see individual branches
 
-so much text
