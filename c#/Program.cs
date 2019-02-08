@@ -9,3 +9,7 @@ Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeew");
 // DocSection: single_hello_world_second_third_gfn
 Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeewwdasasasasasasasasasasasasasasasasasas");
 // EndDocSection
+
+// DocSection: single_hello_world_second_third_gfn
+Console.WriteLine("C# yaaaaaaa");
+// EndDocSection
