@@ -13,3 +13,11 @@ console.log("Hello Kentico Cloud, from JavaScript");
 // DocSection: multiple_assalamualaikum_alealamia2
 console.log("Hello Kentico Cloud, from JavaScript");
 // EndDocSection
+
+// DocSection: multiple_multipleTest
+console.log("Hello Kentico Cloud, from JavaScript");
+// EndDocSection
+
+// DocSection: single_singleTest
+console.log("Hello Kentico Cloud, from JavaScript");
+// EndDocSection
