@@ -21,3 +21,7 @@ Console.WriteLine("C# yaaaaaaa");
 // DocSection: multiple_WTF
 Console.WriteLine("C# yaaaaaaa");
 // EndDocSection
+
+// DocSection: single_WTF
+Console.WriteLine("C# yaaaaaaa");
+// EndDocSection
