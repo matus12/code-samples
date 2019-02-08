@@ -5,3 +5,7 @@ Console.WriteLine("Hello Kentico Cloud, from Javicka");
 // DocSection: multiple_test_java
 Console.WriteLine("Hello Kentico Cloud, from Javicka");
 // EndDocSection
+
+// DocSection: multiple_debug
+Console.WriteLine("Hello Kentico Cloud, from Javicka");
+// EndDocSection
