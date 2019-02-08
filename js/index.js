@@ -14,6 +14,6 @@ console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew");
 console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew thiiiiiiiiird");
 // EndDocSection
 
-// DocSection: hello_world_second_third_abc
+// DocSection: single_hello_world_second_third_abc
 console.log("Hello Kentico Cloud, from JavaScript wassuuuup ABC");
 // EndDocSection
