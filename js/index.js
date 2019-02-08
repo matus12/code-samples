@@ -13,7 +13,3 @@ console.log("Hello Kentico Cloud, from JavaScript");
 // DocSection: multiple_assalamualaikum_alealamia2
 console.log("Hello Kentico Cloud, from JavaScript");
 // EndDocSection
-
-// DocSection: single_axaxa
-console.log("Hello Kentico Cloud, from JavaScript");
-// EndDocSection
