@@ -9,3 +9,7 @@ Console.WriteLine("Hello Kentico Cloud, from Javicka");
 // DocSection: multiple_debug
 Console.WriteLine("Hello Kentico Cloud, from Javicka");
 // EndDocSection
+
+// DocSection: multiple_double_debug
+Console.WriteLine("Hello Kentico Cloud, from Javicka");
+// EndDocSection
