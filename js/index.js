@@ -10,6 +10,6 @@ console.log("Hello Kentico Cloud, from JavaScript");
 console.log("Hello Kentico Cloud, from JavaScript");
 // EndDocSection
 
-// DocSection: multiple_assalamualaikum_alealamia
+// DocSection: multiple_assalamualaikum_alealamia2
 console.log("Hello Kentico Cloud, from JavaScript");
 // EndDocSection
