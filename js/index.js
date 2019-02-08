@@ -9,11 +9,3 @@ console.log("Hello Kentico Cloud, from JavaScript");
 // DocSection: single_hello_world_second_zhgtd
 console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew");
 // EndDocSection
-
-// DocSection: single_bububu
-console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew");
-// EndDocSection
-
-// DocSection: single_bububu2
-console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew2");
-// EndDocSection
