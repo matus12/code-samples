@@ -18,3 +18,6 @@ Console.WriteLine("C# yaaaaaaa");
 Console.WriteLine("C# yaaaaaaa");
 // EndDocSection
 
+// DocSection: multiple_WTF
+Console.WriteLine("C# yaaaaaaa");
+// EndDocSection
