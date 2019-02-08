@@ -17,7 +17,3 @@ console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew");
 // DocSection: single_bububu2
 console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew2");
 // EndDocSection
-
-// DocSection: single_bububu3
-console.log("Hello Kentico Cloud, from JavaScript neeeeeeeeeeeeeeeeew3");
-// EndDocSection
