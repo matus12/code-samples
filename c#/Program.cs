@@ -13,3 +13,8 @@ Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeewwdasasasasasasasasasasasasasas
 // DocSection: single_hello_world_second_third_abc
 Console.WriteLine("C# yaaaaaaa");
 // EndDocSection
+
+// DocSection: multiple_NEW
+Console.WriteLine("C# yaaaaaaa");
+// EndDocSection
+
