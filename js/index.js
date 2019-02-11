@@ -21,3 +21,11 @@ console.log("Hello Kentico Cloud, from JavaScript");
 // DocSection: single_TEST1
 console.log("Hello Kentico Cloud, from JavaScript");
 // EndDocSection
+
+// DocSection: single_TEST2
+console.log("Hello Kentico Cloud, from JavaScript");
+// EndDocSection
+
+// DocSection: multiple_TEST2
+console.log("Hello Kentico Cloud, from JavaScript");
+// EndDocSection
