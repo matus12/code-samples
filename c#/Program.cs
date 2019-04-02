@@ -1,19 +1,19 @@
-// DocSection: multiple_hello_world
+// DocSection: hello_world_csharp
 Console.WriteLine("Hello Kentico Cloud, from C#");
 // EndDocSection
 
-// DocSection: single_hello_world_second_asdaeweqw
+// DocSection: hello_world_second_asdaeweqw_csharp
 Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeew");
 // EndDocSection
 
-// DocSection: single_hello_world_second_third_gfn
+// DocSection: single_hello_world_second_third_gfn_csharp
 Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeewwdasasasasasasasasasasasasasasasasasas");
 // EndDocSection
 
-// DocSection: single_hello_world_second_third_abc
+// DocSection: single_hello_world_second_third_abc_csharp
 Console.WriteLine("C# yaaaaaaa");
 // EndDocSection
 
-// DocSection: multiple_NEW
+// DocSection: multiple_NEW_csharp
 Console.WriteLine("C# yaaaaaaa");
 // EndDocSection
