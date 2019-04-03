@@ -11,7 +11,7 @@ Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeewwdasasasasasasasasasasasasasas
 // EndDocSection
 
 // DocSection: single_hello_world_second_third_abc_csharp
-Console.WriteLine("C# yaaaaaaa");
+Console.WriteLine("C# bleble");
 // EndDocSection
 
 // DocSection: multiple_NEW_csharp
