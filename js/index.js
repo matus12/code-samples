@@ -7,7 +7,7 @@ console.log("Hello Kentico Cloud, from JavaScript");
 // EndDocSection
 
 // DocSection: multiple_new_code_samples_item
-console.log("Hello Kentico Cloud, from JavaScript");
+console.log("Hello Kentico Cloud, from WAT");
 // EndDocSection
 
 // DocSection: multiple_assalamualaikum_alealamia2
