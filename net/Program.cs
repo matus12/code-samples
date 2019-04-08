@@ -5,3 +5,7 @@ Console.WriteLine("Hello Kentico Cloud, from C#");
 // DocSection: hello_world_second_asdaeweqw_csharp
 Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeew");
 // EndDocSection
+
+// DocSection: what_the_hell_is_going_on
+Console.WriteLine("Oi");
+// EndDocSection
