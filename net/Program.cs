@@ -7,5 +7,5 @@ Console.WriteLine("C# neeeeeeeeeeeeeeeeeeeeeeeeeew");
 // EndDocSection
 
 // DocSection: what_the_hell_is_going_on
-Console.WriteLine("Oi");
+Console.WriteLine("Nuffin bruh");
 // EndDocSection
